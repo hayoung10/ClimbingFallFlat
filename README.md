@@ -8,5 +8,5 @@ VR Game Team Project
   - Unreal Engine 4.23
 - 자세한 기능 및 게임 설명은 **갓상현실_최종발표.pptx** 파일 참고
 - 시연 영상
-  - [튜토리얼] <https://youtu.be/XhwzBcbh-mM>
-  - [메인 맵] <https://youtu.be/NqEXMISGFu8>
+  - [튜토리얼] <https://youtu.be/aehWpovOQmk>
+  - [메인 맵] <https://youtu.be/FOXzQEKfDw4>
